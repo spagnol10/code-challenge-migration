@@ -4,4 +4,3 @@ server:
 api:
   base:
     url: https://dummyjson.com/products
-      
